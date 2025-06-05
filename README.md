@@ -19,7 +19,7 @@ OnyDepot - Shop Manager is a fully console-based Java application that simulates
 - ANSI escape codes (for console colors)
 
 # 🧾 Audit Log Example
-Audit actions are automatically saved in a CSV file: 🧾 See a sample for [audit log CSV](./src/audit.csv).
+Audit actions are automatically saved in a CSV file: 🧾 See a sample for [audit log CSV](OnyDepot/audit.csv).
 
 # 📚 Use Cases
 - University project
